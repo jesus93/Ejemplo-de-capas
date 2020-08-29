@@ -1,0 +1,8 @@
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\bin\Debug\DAL_NET.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\bin\Debug\DAL_NET.pdb
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

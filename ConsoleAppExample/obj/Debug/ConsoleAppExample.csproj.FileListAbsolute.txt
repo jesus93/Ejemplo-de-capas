@@ -1,0 +1,13 @@
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\ConsoleAppExample.exe.config
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\ConsoleAppExample.exe
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\ConsoleAppExample.pdb
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\BLL.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\DAL_NET.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\DataAccessLayer.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\BLL.pdb
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\DAL_NET.pdb
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\bin\Debug\DataAccessLayer.pdb
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\obj\Debug\ConsoleAppExample.csprojAssemblyReference.cache
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\obj\Debug\ConsoleAppExample.csproj.CopyComplete
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\obj\Debug\ConsoleAppExample.exe
+C:\Users\oajes\source\repos\ConsoleAppExample\ConsoleAppExample\obj\Debug\ConsoleAppExample.pdb

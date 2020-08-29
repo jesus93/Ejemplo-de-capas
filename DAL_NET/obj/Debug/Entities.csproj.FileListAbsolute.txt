@@ -1,0 +1,5 @@
+C:\Users\oajes\source\repos\ConsoleAppExample\DAL_NET\bin\Debug\DAL_NET.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\DAL_NET\bin\Debug\DAL_NET.pdb
+C:\Users\oajes\source\repos\ConsoleAppExample\DAL_NET\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\oajes\source\repos\ConsoleAppExample\DAL_NET\obj\Debug\DAL_NET.dll
+C:\Users\oajes\source\repos\ConsoleAppExample\DAL_NET\obj\Debug\DAL_NET.pdb
